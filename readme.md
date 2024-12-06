@@ -12,7 +12,7 @@ Este programa simples em C simula o desenvolvimento do *ExploraBrasil*, uma plat
 
 ### 🚀 Como Rodar
 
-1. Compile com `gcc nome_do_arquivo.c -o simulacao`
+1. Compile com `gcc projeto.c -o simulacao`
 2. Execute com `./simulacao`
 
 ### 🖥️ Funcionalidades
